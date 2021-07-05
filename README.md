@@ -50,12 +50,11 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### Github Status Tools :
 
-  <img align="left" alt="abimanu-devl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abimanu-devl&show_icons=true&hide_border=false" />
+<img align="left" alt="abimanu-devl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abimanu-devl&show_icons=true&hide_border=false" />
 
-</details>
+
 
 <!-- [website]: https://example.com -->
 <!-- [youtube]: https://youtube.com/channelName -->
