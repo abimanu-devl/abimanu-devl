@@ -2,7 +2,7 @@
 
 ## About Me.!!
 
-- 🎓 Undergraduate Student in Sri Lankan Institute of Information Technology (SLIIT).
+- 🎓 Graduted Student in Sri Lankan Institute of Information Technology (SLIIT).
 - 🌱 I’m exploring about technologies and developing software solutions to techological problems.
 - 🥅 Goals: Contribute more to Open Source projects and new Techonologies.
 - ⚡ Fun fact: I love play video games on my free time.
